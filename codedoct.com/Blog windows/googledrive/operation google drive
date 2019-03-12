@@ -1,0 +1,14 @@
+//show image
+https://www.googledrive.com/host/[id_image]
+
+Non-Google doc File : https://docs.google.com/uc?id=[FILE_ID]&export=download
+Format : none
+
+Google Document : https://docs.google.com/document/d/[FILE_ID]/export?format=[FORMAT]
+FORMAT : docx, odt, rtf, pdf, txt, html
+
+Google Presentation : https://docs.google.com/presentation/d/[FILE_ID]/export?format=[FORMAT] 
+FORMAT : pptx, pdf, svg, png, jpg 
+
+Google Drawings : https://docs.google.com/drawings/d/[FILE_ID]/export/[FORMAT] 
+FORMAT : pdf, svg, png, jpg

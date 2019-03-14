@@ -30,7 +30,7 @@
 }
 .tabs-inner .widget ul#icbabdrop li#paling-kanan {
   border-right: 1px solid #ddd;
-  padding: 10px 26px;
+  padding: 10px 55px;
 }
 .tabs-inner .widget ul#icbabdrop li#menu_link a {
   font-size: 16px;
@@ -103,93 +103,97 @@ ul#icbabdrop li ul li a{
       <li>
         Laravel
         <ul>
-          <li><a href="http://www.codedoct.com/search/label/Laravel-Chapter1">Chapter 1</a></li>
-          <li><a href="http://www.codedoct.com/search/label/Laravel-Chapter2">Chapter 2</a></li>
-          <li><a href="http://www.codedoct.com/search/label/Laravel-Chapter3">Chapter 3</a></li>
-          <li><a href="http://www.codedoct.com/search/label/Laravel-Chapter4">Chapter 4</a></li>
-          <li><a href="http://www.codedoct.com/search/label/Laravel-Chapter5">Chapter 5</a></li>
-          <li><a href="http://www.codedoct.com/search/label/Laravel-Chapter6">Chapter 6</a></li>
+          <li><a href="https://www.codedoct.com/search/label/Laravel-Chapter1">Chapter 1</a></li>
+          <li><a href="https://www.codedoct.com/search/label/Laravel-Chapter2">Chapter 2</a></li>
+          <li><a href="https://www.codedoct.com/search/label/Laravel-Chapter3">Chapter 3</a></li>
+          <li><a href="https://www.codedoct.com/search/label/Laravel-Chapter4">Chapter 4</a></li>
+          <li><a href="https://www.codedoct.com/search/label/Laravel-Chapter5">Chapter 5</a></li>
+          <li><a href="https://www.codedoct.com/search/label/Laravel-Chapter6">Chapter 6</a></li>
+          <li><a href="https://www.codedoct.com/search/label/Laravel-Chapter7">Chapter 7</a></li>
         </ul>
       </li>
         <li>
           Rails
           <ul>
-          <li><a href="http://www.codedoct.com/search/label/Rails-Chapter1">Chapter 1</a></li>
-          <li><a href="http://www.codedoct.com/search/label/Rails-Chapter2">Chapter 2</a></li>
-          <li><a href="http://www.codedoct.com/search/label/Rails-Chapter3">Chapter 3</a></li>
+          <li><a href="https://www.codedoct.com/search/label/Rails-Chapter1">Chapter 1</a></li>
+          <li><a href="https://www.codedoct.com/search/label/Rails-Chapter2">Chapter 2</a></li>
+          <li><a href="https://www.codedoct.com/search/label/Rails-Chapter3">Chapter 3</a></li>
           </ul>
         </li>
       <li>
-          Windows
+          Phalcon
           <ul>
-            <li><a href="http://www.codedoct.com/2016/05/windows-mengganti-nama-komputer.html">Mengganti Nama Komputer</a></li>
-            <li><a href="http://www.codedoct.com/2016/04/windows-menambah-path-pada-windows.html">Path Global Pada Windows</a></li>
+            <li><a href="https://www.codedoct.com/search/label/Phalcon-Chapter1">Chapter 1</a></li>
+            <li><a href="https://www.codedoct.com/search/label/Phalcon-Chapter2">Chapter 2</a></li>
           </ul>
         </li>
         <li>
           How to
           <ul>
-            <li><a href="http://www.codedoct.com/search/label/How1">How 1</a></li>
-            <li><a href="http://www.codedoct.com/search/label/How2">How 2</a></li>
+            <li><a href="https://www.codedoct.com/search/label/How1">How 1</a></li>
+            <li><a href="https://www.codedoct.com/search/label/How2">How 2</a></li>
           </ul>
         </li>
         <li>
           Sintax
           <ul>
-            <li><a href="http://www.codedoct.com/2016/04/laravel-function-laravel.html">Sintax Laravel</a></li>
-            <li><a href="http://www.codedoct.com/2016/04/github-function-github.html">Sintax Github</a></li>
-            <li><a href="http://www.codedoct.com/2016/07/syntax-syntax-ubuntu.html">Sintax Ubuntu</a></li>
-            <li><a href="http://www.codedoct.com/2016/08/sintax-mysql.html">Sintax MySQL</a></li>
-            <li><a href="http://www.codedoct.com/2016/10/syntax-syntax-ruby.html">Sintax Ruby</a></li>
-            <li><a href="http://www.codedoct.com/2016/10/syntax-syntax-php.html">Sintax PHP</a></li>
-            <li><a href="http://www.codedoct.com/2016/10/syntax-syntax-sass.html">Sintax SASS</a></li>
-            <li><a href="http://www.codedoct.com/2016/11/syntax-syntax-rails.html">Sintax Rails</a></li>
+            <li><a href="https://www.codedoct.com/2016/04/laravel-function-laravel.html">Sintax Laravel</a></li>
+            <li><a href="https://www.codedoct.com/2016/04/github-function-github.html">Sintax Github</a></li>
+            <li><a href="https://www.codedoct.com/2016/07/syntax-syntax-ubuntu.html">Sintax Ubuntu</a></li>
+            <li><a href="https://www.codedoct.com/2016/08/sintax-mysql.html">Sintax MySQL</a></li>
+            <li><a href="https://www.codedoct.com/2016/10/syntax-syntax-ruby.html">Sintax Ruby</a></li>
+            <li><a href="https://www.codedoct.com/2016/10/syntax-syntax-php.html">Sintax PHP</a></li>
+            <li><a href="https://www.codedoct.com/2016/10/syntax-syntax-sass.html">Sintax SASS</a></li>
+            <li><a href="https://www.codedoct.com/2016/11/syntax-syntax-rails.html">Sintax Rails</a></li>
           </ul>
         </li>
         <li>
           What is
           <ul>
-            <li><a href="http://www.codedoct.com/2016/04/file-permissions.html">File Permissions</a></li>
-            <li><a href="http://www.codedoct.com/2016/07/how-to-crontab.html">Crontab</a></li>
-            <li><a href="http://www.codedoct.com/2016/09/what-is-array.html">Array</a></li>
-            <li><a href="http://www.codedoct.com/2016/10/custom-server-vs-serverpilot.html">Serverpilot</a></li>
+            <li><a href="https://www.codedoct.com/2016/04/file-permissions.html">File Permissions</a></li>
+            <li><a href="https://www.codedoct.com/2016/07/how-to-crontab.html">Crontab</a></li>
+            <li><a href="https://www.codedoct.com/2016/09/what-is-array.html">Array</a></li>
+            <li><a href="https://www.codedoct.com/2016/10/custom-server-vs-serverpilot.html">Serverpilot</a></li>
           </ul>
         </li>
         <li>
           PHP
           <ul>
-            <li><a href="http://www.codedoct.com/search/label/PHP-Chapter1">Chapter 1</a></li>
-            <li><a href="http://www.codedoct.com/search/label/PHP-Chapter2">Chapter 2</a></li>
+            <li><a href="https://www.codedoct.com/search/label/PHP-Chapter1">Chapter 1</a></li>
+            <li><a href="https://www.codedoct.com/search/label/PHP-Chapter2">Chapter 2</a></li>
           </ul>
         </li>
         <li>
           Visual Basic
           <ul>
-            <li><a href="http://www.codedoct.com/search/label/VB-Chapter1">Chapter 1</a></li>
-            <li><a href="http://www.codedoct.com/search/label/VB-Chapter2">Chapter 2</a></li>
+            <li><a href="https://www.codedoct.com/search/label/VB-Chapter1">Chapter 1</a></li>
+            <li><a href="https://www.codedoct.com/search/label/VB-Chapter2">Chapter 2</a></li>
           </ul>
         </li>
         <li>
           React Native
           <ul>
-            <li><a href="http://www.codedoct.com/2016/03/install-react-native-dengan-brew-pada.html">Install React Native pada ubuntu</a></li>
-            <li><a href="http://www.codedoct.com/2016/09/react-native-install-react-native-pada.html">Install React Native pada Windows</a></li>
-            <li><a href="http://www.codedoct.com/2016/09/react-native-create-project-react-native.html">Create project React Native</a></li>
+            <li><a href="https://www.codedoct.com/2016/03/install-react-native-dengan-brew-pada.html">Install React Native pada ubuntu</a></li>
+            <li><a href="https://www.codedoct.com/2016/09/react-native-install-react-native-pada.html">Install React Native pada Windows</a></li>
+            <li><a href="https://www.codedoct.com/2016/09/react-native-create-project-react-native.html">Create project React Native</a></li>
           </ul>
         </li>
         <li>
-          Downloads
+          AWS
           <ul>
-            <li><a href="http://www.codedoct.com/2016/05/download-instalasi-komputer-baru-windows.html">Install Komputer Baru (windows)</a></li>
-            <li><a href="http://www.codedoct.com/2016/07/download-instalasi-komputer-baru-windows.html">Install Komputer Baru (ubuntu)</a></li>
-            <li><a href="http://www.codedoct.com/2016/05/download-game.html">Install Game</a></li>
+            <li><a href="https://www.codedoct.com/2018/05/aws-create-cloud-server-with-ec2.html">Create cloud server with (EC2)</a></li>
+            <li><a href="https://www.codedoct.com/2018/05/aws-integration-server-ec2-with.html">Integration server with cloudflare</a></li>
+            <li><a href="https://www.codedoct.com/2018/05/aws-create-bucket-s3-aws.html">Create bucket S3 AWS</a></li>
+            <li><a href="https://www.codedoct.com/2018/07/aws-fasting-your-s3-file-with-cloudfront.html">Fasting your S3 file with cloudfront</a></li>
           </ul>
         </li>
         <li id="paling-kanan">
           Engine
           <ul>
-            <li><a href="http://www.codedoct.com/search/label/Engine1">Engine 1</a></li>
-            <li><a href="http://www.codedoct.com/search/label/Engine2">Engine 2</a></li>
+            <li><a href="https://www.codedoct.com/search/label/Engine1">Engine 1</a></li>
+            <li><a href="https://www.codedoct.com/search/label/Engine2">Engine 2</a></li>
+            <li><a href="https://www.codedoct.com/search/label/Engine3">Engine 3</a></li>
+            <li><a href="https://www.codedoct.com/search/label/Engine4">Engine 4</a></li>
           </ul>
         </li>
     </ul>

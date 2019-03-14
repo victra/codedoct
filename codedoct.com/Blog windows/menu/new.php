@@ -30,7 +30,7 @@
 }
 .tabs-inner .widget ul#icbabdrop li#paling-kanan {
   border-right: 1px solid #ddd;
-  padding: 10px 55px;
+  padding: 10px 64px;
 }
 .tabs-inner .widget ul#icbabdrop li#menu_link a {
   font-size: 16px;
@@ -128,10 +128,11 @@ ul#icbabdrop li ul li a{
 			    </ul>
 		  	</li>
 		  	<li>
-		    	How to
+		    	How
 			    <ul>
 			      <li><a href="https://www.codedoct.com/search/label/How1">How 1</a></li>
 			      <li><a href="https://www.codedoct.com/search/label/How2">How 2</a></li>
+			      <li><a href="https://www.codedoct.com/search/label/How2">How 3</a></li>
 			    </ul>
 		  	</li>
 		  	<li>

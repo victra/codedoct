@@ -122,38 +122,39 @@
          <div class="col-md-2">
             <div class="menu-footer">
                <li><h3 style="color:black">About</h3></li>
-               <li><a class="a" href="http://www.codedoct.com/p/about-website.html">About Website</a></li>
-               <li><a class="a" href="http://www.codedoct.com/p/about-me.html">About Me</a></li>
+               <li><a class="a" href="https://www.codedoct.com/p/about-website.html">About Website</a></li>
+               <li><a class="a" href="https://www.codedoct.com/p/about-me.html">About Me</a></li>
             </div>
          </div>
          <div class="col-md-3">
             <div class="menu-footer">
                 <li><h3 style="color:black">Tags</h3></li>
-                <li id="tempe"><a class="t" href="http://www.codedoct.com/search/label/php">PHP</a></li>
-                <li id="tempe"><a class="t" href="http://www.codedoct.com/search/label/laravel">Laravel</a></li>
-                <li id="tempe"><a class="t" href="http://www.codedoct.com/search/label/how">How</a></li>
-                <li id="tempe"><a class="t" href="http://www.codedoct.com/search/label/download">Download</a></li>
-                <li id="tempe"><a class="t" href="http://www.codedoct.com/search/label/Ubuntu">Ubuntu</a></li>
-                <li id="tempe"><a class="t" href="http://www.codedoct.com/search/label/sintax">Sintax</a></li>
-                <li id="tempe"><a class="t" href="http://www.codedoct.com/search/label/windows">Windows</a></li>
-                <li id="tempe"><a class="t" href="http://www.codedoct.com/search/label/engine">Engine</a></li>
-                <li id="tempe"><a class="t" href="http://www.codedoct.com/search/label/review">Review</a></li>
-                <li id="tempe"><a class="t" href="http://www.codedoct.com/search/label/whatis">What is</a></li>
-                <li id="tempe"><a class="t" href="http://www.codedoct.com/search/label/Ruby">Ruby</a></li>
-                <li id="tempe"><a class="t" href="http://www.codedoct.com/search/label/Rails">Rails</a></li>
-                <li id="tempe"><a class="t" href="http://www.codedoct.com/search/label/Github">Github</a></li>
-                <li id="tempe"><a class="t" href="http://www.codedoct.com/search/label/Phalcon">Phalcon</a></li>
-                <li id="tempe"><a class="t" href="http://www.codedoct.com/search/label/Visual%20Basic">VB</a></li>
-                <li id="tempe"><a class="t" href="http://www.codedoct.com/search/label/React-Native">React Native</a></li>
-                <li id="tempe"><a class="t" href="http://www.codedoct.com/search/label/Docker">Docker</a></li>
+                <li id="tempe"><a class="t" href="https://www.codedoct.com/search/label/php">PHP</a></li>
+                <li id="tempe"><a class="t" href="https://www.codedoct.com/search/label/laravel">Laravel</a></li>
+                <li id="tempe"><a class="t" href="https://www.codedoct.com/search/label/how">How</a></li>
+                <li id="tempe"><a class="t" href="https://www.codedoct.com/search/label/AWS">AWS</a></li>
+                <li id="tempe"><a class="t" href="https://www.codedoct.com/search/label/Ubuntu">Ubuntu</a></li>
+                <li id="tempe"><a class="t" href="https://www.codedoct.com/search/label/sintax">Sintax</a></li>
+                <li id="tempe"><a class="t" href="https://www.codedoct.com/search/label/windows">Windows</a></li>
+                <li id="tempe"><a class="t" href="https://www.codedoct.com/search/label/engine">Engine</a></li>
+                <li id="tempe"><a class="t" href="https://www.codedoct.com/search/label/review">Review</a></li>
+                <li id="tempe"><a class="t" href="https://www.codedoct.com/search/label/whatis">What is</a></li>
+                <li id="tempe"><a class="t" href="https://www.codedoct.com/search/label/Ruby">Ruby</a></li>
+                <li id="tempe"><a class="t" href="https://www.codedoct.com/search/label/Rails">Rails</a></li>
+                <li id="tempe"><a class="t" href="https://www.codedoct.com/search/label/Github">Github</a></li>
+                <li id="tempe"><a class="t" href="https://www.codedoct.com/search/label/Phalcon">Phalcon</a></li>
+                <li id="tempe"><a class="t" href="https://www.codedoct.com/search/label/Visual%20Basic">VB</a></li>
+                <li id="tempe"><a class="t" href="https://www.codedoct.com/search/label/React-Native">React Native</a></li>
+                <li id="tempe"><a class="t" href="https://www.codedoct.com/search/label/Docker">Docker</a></li>
+                <li id="tempe"><a class="t" href="https://www.codedoct.com/search/label/Phalcon">Phalcon</a></li>
             </div>
          </div>
          <div class="col-md-4">
             <div class="menu-footer">
                <li><h3 style="color:black">Help</h3></li>
-               <li><a class="a" href="http://www.codedoct.com/p/contact-us.html">Contact Us</a></li>
-               <li><a class="a" href="http://www.codedoct.com/p/disclaimer.html">Disclaimer</a></li>
-               <li><a class="a" href="http://www.codedoct.com/p/privacy-policy-for-codedoct-if-you.html">Privacy Policy</a></li>
+               <li><a class="a" href="https://www.codedoct.com/p/contact-us.html">Contact Us</a></li>
+               <li><a class="a" href="https://www.codedoct.com/p/disclaimer.html">Disclaimer</a></li>
+               <li><a class="a" href="https://www.codedoct.com/p/privacy-policy-for-codedoct-if-you.html">Privacy Policy</a></li>
             </div>
          </div>
       </div>
